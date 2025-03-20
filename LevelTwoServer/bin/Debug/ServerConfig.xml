@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<CConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PLCList>
+    opc_plc00.opc_plc0.Start_Casting|opc_plc00.opc_plc0.Start_Tilting_UP|opc_plc00.opc_plc0.Start_Tilting_POS|opc_plc00.opc_plc0.Start_Tilting_Dw|opc_plc00.opc_plc0.SHIFTER_UP_POS|opc_plc00.opc_plc0.SHIFTER_DN_POS|opc_plc00.opc_plc0.DRT_BL_EXIST_T|opc_plc00.opc_plc0.STOPPER_UP_POS|opc_plc00.opc_plc0.STOPPER_DN_POS|opc_plc00.opc_plc0.STOPPER_UP_ING|opc_plc00.opc_plc0.STOPPER_DN_ING|opc_plc00.opc_plc0.Cut_Working|
+    opc_plc01.opc_plc1.Start_Casting|opc_plc01.opc_plc1.Start_Tilting_UP|opc_plc01.opc_plc1.Start_Tilting_POS|opc_plc01.opc_plc1.Start_Tilting_Dw|opc_plc01.opc_plc1.SHIFTER_UP_POS|opc_plc01.opc_plc1.SHIFTER_DN_POS|opc_plc01.opc_plc1.DRT_BL_EXIST_T|opc_plc01.opc_plc1.STOPPER_UP_POS|opc_plc01.opc_plc1.STOPPER_DN_POS|opc_plc01.opc_plc1.STOPPER_UP_ING|opc_plc01.opc_plc1.STOPPER_DN_ING|opc_plc01.opc_plc1.Cut_Working|
+    opc_plc02.opc_plc2.Start_Casting|opc_plc02.opc_plc2.Start_Tilting_UP|opc_plc02.opc_plc2.Start_Tilting_POS|opc_plc02.opc_plc2.Start_Tilting_Dw|opc_plc02.opc_plc2.SHIFTER_UP_POS|opc_plc02.opc_plc2.SHIFTER_DN_POS|opc_plc02.opc_plc2.DRT_BL_EXIST_T|opc_plc02.opc_plc2.STOPPER_UP_POS|opc_plc02.opc_plc2.STOPPER_DN_POS|opc_plc02.opc_plc2.STOPPER_UP_ING|opc_plc02.opc_plc2.STOPPER_DN_ING|opc_plc02.opc_plc2.Cut_Working|
+    opc_plc03.opc_plc3.Start_Casting|opc_plc03.opc_plc3.Start_Tilting_UP|opc_plc03.opc_plc3.Start_Tilting_POS|opc_plc03.opc_plc3.Start_Tilting_Dw|opc_plc03.opc_plc3.SHIFTER_UP_POS|opc_plc03.opc_plc3.SHIFTER_DN_POS|opc_plc03.opc_plc3.DRT_BL_EXIST_T|opc_plc03.opc_plc3.STOPPER_UP_POS|opc_plc03.opc_plc3.STOPPER_DN_POS|opc_plc03.opc_plc3.STOPPER_UP_ING|opc_plc03.opc_plc3.STOPPER_DN_ING|opc_plc03.opc_plc3.Cut_Working|
+    opc_plc04.opc_plc4.Start_Casting|opc_plc04.opc_plc4.Start_Tilting_UP|opc_plc04.opc_plc4.Start_Tilting_POS|opc_plc04.opc_plc4.Start_Tilting_Dw|opc_plc04.opc_plc4.SHIFTER_UP_POS|opc_plc04.opc_plc4.SHIFTER_DN_POS|opc_plc04.opc_plc4.DRT_BL_EXIST_T|opc_plc04.opc_plc4.STOPPER_UP_POS|opc_plc04.opc_plc4.STOPPER_DN_POS|opc_plc04.opc_plc4.STOPPER_UP_ING|opc_plc04.opc_plc4.STOPPER_DN_ING|opc_plc04.opc_plc4.Cut_Working|
+    opc_plc05.opc_plc5.Start_Casting|opc_plc05.opc_plc5.Start_Tilting_UP|opc_plc05.opc_plc5.Start_Tilting_POS|opc_plc05.opc_plc5.Start_Tilting_Dw|opc_plc05.opc_plc5.SHIFTER_UP_POS|opc_plc05.opc_plc5.SHIFTER_DN_POS|opc_plc05.opc_plc5.DRT_BL_EXIST_T|opc_plc05.opc_plc5.STOPPER_UP_POS|opc_plc05.opc_plc5.STOPPER_DN_POS|opc_plc05.opc_plc5.STOPPER_UP_ING|opc_plc05.opc_plc5.STOPPER_DN_ING|opc_plc05.opc_plc5.Cut_Working| 
+    opc_plc06.opc_plc6.Start_Casting|opc_plc06.opc_plc6.Start_Tilting_UP|opc_plc06.opc_plc6.Start_Tilting_POS|opc_plc06.opc_plc6.Start_Tilting_Dw|opc_plc06.opc_plc6.SHIFTER_UP_POS|opc_plc06.opc_plc6.SHIFTER_DN_POS|opc_plc06.opc_plc6.DRT_BL_EXIST_T|opc_plc06.opc_plc6.STOPPER_UP_POS|opc_plc06.opc_plc6.STOPPER_DN_POS|opc_plc06.opc_plc6.STOPPER_UP_ING|opc_plc06.opc_plc6.STOPPER_DN_ING|opc_plc06.opc_plc6.Cut_Working| 
+    opc_plc00.opc_plc0.Cast_speed|opc_plc00.opc_plc0.Grade|opc_plc00.opc_plc0.Fracture|
+    opc_plc01.opc_plc1.Cast_speed|opc_plc01.opc_plc1.Grade|opc_plc01.opc_plc1.Fracture|
+    opc_plc02.opc_plc2.Cast_speed|opc_plc02.opc_plc2.Grade|opc_plc02.opc_plc2.Fracture|
+    opc_plc03.opc_plc3.Cast_speed|opc_plc03.opc_plc3.Grade|opc_plc03.opc_plc3.Fracture|
+    opc_plc04.opc_plc4.Cast_speed|opc_plc04.opc_plc4.Grade|opc_plc04.opc_plc4.Fracture|
+    opc_plc05.opc_plc5.Cast_speed|opc_plc05.opc_plc5.Grade|opc_plc05.opc_plc5.Fracture|
+    opc_plc06.opc_plc6.Cast_speed|opc_plc06.opc_plc6.Grade|opc_plc06.opc_plc6.Fracture|
+    opc_plc00.opc_plc0.DR_1Z RUN|opc_plc00.opc_plc0.SHIFTER_UP_1|opc_plc00.opc_plc0.DR_STOPPER_DBUP|opc_plc00.opc_plc0.DR_STOPPER DBDW|opc_plc00.opc_plc0.SHIFTER_UP|opc_plc00.opc_plc0.SHIFTER_DW|opc_plc00.opc_plc0.DR_STOPPER_SG_0|
+    opc_plc01.opc_plc1.DR_1Z RUN|opc_plc01.opc_plc1.SHIFTER_UP_1|opc_plc01.opc_plc1.DR_STOPPER_DBUP|opc_plc01.opc_plc1.DR_STOPPER DBDW|opc_plc01.opc_plc1.SHIFTER_UP|opc_plc01.opc_plc1.SHIFTER_DW|opc_plc01.opc_plc1.DR_STOPPER_SG_0|
+    opc_plc02.opc_plc2.DR_1Z RUN|opc_plc02.opc_plc2.SHIFTER_UP_1|opc_plc02.opc_plc2.DR_STOPPER_DBUP|opc_plc02.opc_plc2.DR_STOPPER DBDW|opc_plc02.opc_plc2.SHIFTER_UP|opc_plc02.opc_plc2.SHIFTER_DW|opc_plc02.opc_plc2.DR_STOPPER_SG_0|
+    opc_plc03.opc_plc3.DR_1Z RUN|opc_plc03.opc_plc3.SHIFTER_UP_1|opc_plc03.opc_plc3.DR_STOPPER_DBUP|opc_plc03.opc_plc3.DR_STOPPER DBDW|opc_plc03.opc_plc3.SHIFTER_UP|opc_plc03.opc_plc3.SHIFTER_DW|opc_plc03.opc_plc3.DR_STOPPER_SG_0|
+    opc_plc04.opc_plc4.DR_1Z RUN|opc_plc04.opc_plc4.SHIFTER_UP_1|opc_plc04.opc_plc4.DR_STOPPER_DBUP|opc_plc04.opc_plc4.DR_STOPPER DBDW|opc_plc04.opc_plc4.SHIFTER_UP|opc_plc04.opc_plc4.SHIFTER_DW|opc_plc04.opc_plc4.DR_STOPPER_SG_0|
+    opc_plc05.opc_plc5.DR_1Z RUN|opc_plc05.opc_plc5.SHIFTER_UP_1|opc_plc05.opc_plc5.DR_STOPPER_DBUP|opc_plc05.opc_plc5.DR_STOPPER DBDW|opc_plc05.opc_plc5.SHIFTER_UP|opc_plc05.opc_plc5.SHIFTER_DW|opc_plc05.opc_plc5.DR_STOPPER_SG_0|
+    opc_plc06.opc_plc6.DR_1Z RUN|opc_plc06.opc_plc6.SHIFTER_UP_1|opc_plc06.opc_plc6.DR_STOPPER_DBUP|opc_plc06.opc_plc6.DR_STOPPER DBDW|opc_plc06.opc_plc6.SHIFTER_UP|opc_plc06.opc_plc6.SHIFTER_DW|opc_plc06.opc_plc6.DR_STOPPER_SG_0|
+    opc_Server.opc_Ti Gang.num1Wait|opc_Server.opc_Ti Gang.num1Take|opc_Server.opc_Ti Gang.num1Position|opc_Server.opc_Ti Gang.num2Take|opc_Server.opc_Ti Gang.num2Position|opc_Server.opc_Ti Gang.num1IsWait|opc_Server.opc_Ti Gang.num2IsWait|
+    opc_Server.opc_Ti Gang.num1RollingOK|opc_Server.opc_Ti Gang.num1RollingSteel|opc_Server.opc_Ti Gang.num4RollingOK|opc_Server.opc_Ti Gang.num4RollingSteel|
+    opc_plc00.opc_plc0.WUR_FP_Z|opc_plc00.opc_plc0.BDGD_ZC|
+    opc_plc01.opc_plc1.WUR_FP_Z|opc_plc01.opc_plc1.BDGD_ZC|
+    opc_plc02.opc_plc2.WUR_FP_Z|opc_plc02.opc_plc2.BDGD_ZC|
+    opc_plc03.opc_plc3.WUR_FP_Z|opc_plc03.opc_plc3.BDGD_ZC|
+    opc_plc04.opc_plc4.WUR_FP_Z|opc_plc04.opc_plc4.BDGD_ZC|
+    opc_plc05.opc_plc5.WUR_FP_Z|opc_plc05.opc_plc5.BDGD_ZC|
+    opc_plc06.opc_plc6.WUR_FP_Z|opc_plc06.opc_plc6.BDGD_ZC|
+    opc_plc00.opc_plc0.IsSteelFour|
+    opc_plc01.opc_plc1.IsSteelFour|
+    opc_plc02.opc_plc2.IsSteelFour|
+    opc_plc03.opc_plc3.IsSteelFour|
+    opc_plc04.opc_plc4.IsSteelFour|
+    opc_plc05.opc_plc5.IsSteelFour|
+    opc_plc06.opc_plc6.IsSteelFour|
+    opc_plc00.opc_plc0.IsSteelOne|
+    opc_plc01.opc_plc1.IsSteelOne|
+    opc_plc02.opc_plc2.IsSteelOne|
+    opc_plc03.opc_plc3.IsSteelOne|
+    opc_plc04.opc_plc4.IsSteelOne|
+    opc_plc05.opc_plc5.IsSteelOne|
+    opc_plc06.opc_plc6.IsSteelOne|
+    opc_Server.opc_Server.Start_Casting|
+    opc_Server.opc_Ti Gang.AutoRun|
+    opc_Server.opc_Ti Gang.num1RunAuto|
+    opc_Server.opc_Ti Gang.num2RunAuto|
+    opc_Server.opc_Ti Gang.num1Location|
+    opc_Server.opc_Ti Gang.num2Location|
+    opc_plc01.opc_plc1.OneOption|
+    opc_plc02.opc_plc2.OneOption|
+    opc_plc03.opc_plc3.OneOption|
+    opc_plc04.opc_plc4.OneOption|
+    opc_plc05.opc_plc5.OneOption|
+    opc_plc01.opc_plc1.FourOption|
+    opc_plc02.opc_plc2.FourOption|
+    opc_plc03.opc_plc3.FourOption|
+    opc_plc04.opc_plc4.FourOption|
+    opc_plc05.opc_plc5.FourOption|
+    opc_Server.opc_Ti Gang.num1Stop|
+    opc_Server.opc_Ti Gang.num4RollingFristSteel|
+</PLCList>
+<Points>
+    1.1|1.1|1.1|1.1|1.1|1.1|1.1|1.1|1.1|1.1|1.1
+</Points>
+
+<ServerIP>
+192.168.44.104
+</ServerIP>
+<ServerPort>
+6688
+</ServerPort>
+</CConfig>
